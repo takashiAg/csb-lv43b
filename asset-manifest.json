@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://takashiag.github.io/csb-lv43b/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://takashiag.github.io/csb-lv43b/static/js/main.52e32983.chunk.js",
+    "main.js.map": "https://takashiag.github.io/csb-lv43b/static/js/main.52e32983.chunk.js.map",
+    "runtime-main.js": "https://takashiag.github.io/csb-lv43b/static/js/runtime-main.7d77c203.js",
+    "runtime-main.js.map": "https://takashiag.github.io/csb-lv43b/static/js/runtime-main.7d77c203.js.map",
+    "static/js/2.60a1a1bd.chunk.js": "https://takashiag.github.io/csb-lv43b/static/js/2.60a1a1bd.chunk.js",
+    "static/js/2.60a1a1bd.chunk.js.map": "https://takashiag.github.io/csb-lv43b/static/js/2.60a1a1bd.chunk.js.map",
+    "index.html": "https://takashiag.github.io/csb-lv43b/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://takashiag.github.io/csb-lv43b/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.60a1a1bd.chunk.js.LICENSE.txt": "https://takashiag.github.io/csb-lv43b/static/js/2.60a1a1bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d77c203.js",
+    "static/js/2.60a1a1bd.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.52e32983.chunk.js"
+  ]
+}
